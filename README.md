@@ -1,6 +1,6 @@
 # 🗺️ See-Sights
 
-**See-Sights** ist eine iOS-App, die Besuchern von Badeseen hilft, sich einfach und visuell auf dem Gelände zu orientieren. Die App nutzt MapKit in Kombination mit einer SwiftUI-basierten Benutzeroberfläche, um wichtige Orte wie Restaurants, Erste-Hilfe-Stationen oder Sanitäranlagen übersichtlich darzustellen.
+**See-Sights** ist eine iOS-App, die Besuchern von Badeseen hilft, sich einfach und visuell auf dem Gelände zu orientieren. Die App nutzt MapKit in Kombination mit einer SwiftUI-basierten Benutzeroberfläche, um wichtige Orte wie Restaurants, Erste-Hilfe-Stationen oder Sanitäranlagen übersichtlich darzustellen. 
 
 ---
 
