@@ -48,22 +48,22 @@ Der Fokus liegt auf einer **intuitiven Benutzerführung**, einer **modernen Kart
 ## 📸 Screenshots
 
 ### 🗺️ Startansicht der Karte
-<img src="./01-mainView-portrait.png" width="350" alt="Main View" />
+<img src="Assets/01-mainView-portrait.png" width="350" alt="Main View" />
 
 ### 🔍 Gefilterte Ansicht: Erste Auswahl
-<img src="./02-tabbarSelectedView-portrait.png" width="350" alt="Tabbar Auswahl 1" />
+<img src="Assets/02-tabbarSelectedView-portrait.png" width="350" alt="Tabbar Auswahl 1" />
 
 ### 🔍 Gefilterte Ansicht: Zweite Auswahl
-<img src="./03-tabbarSelectedView2-portrait.png" width="350" alt="Tabbar Auswahl 2" />
+<img src="Assets/03-tabbarSelectedView2-portrait.png" width="350" alt="Tabbar Auswahl 2" />
 
 ### 📍 Ausgewählter Ort auf der Karte
-<img src="./04-locationSelectedView-portrait.png" width="350" alt="Location auf Map ausgewählt" />
+<img src="Assets/04-locationSelectedView-portrait.png" width="350" alt="Location auf Map ausgewählt" />
 
 ### ℹ️ Detailansicht (Medium Sheet)
-<img src="./05-locationDetailViewMediumSheet-portrait.png" width="350" alt="Detailansicht Medium Sheet" />
+<img src="Assets/05-locationDetailViewMediumSheet-portrait.png" width="350" alt="Detailansicht Medium Sheet" />
 
 ### ℹ️ Detailansicht (Large Sheet)
-<img src="./06-locationDetailViewLargeSheet-portrait.png" width="350" alt="Detailansicht Large Sheet" />
+<img src="Assets/06-locationDetailViewLargeSheet-portrait.png" width="350" alt="Detailansicht Large Sheet" />
 
 
 ---
